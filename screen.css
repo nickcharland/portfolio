@@ -141,6 +141,7 @@ nav {font-size: 1.6em;}
   and (-webkit-min-device-pixel-ratio: 3) { 
 
 div.box {top: 250px;}
+div.box a {font-size: 1.5em;}
 nav {font-size: 1.6em;}
 img {padding-left: 75px;}
 }
