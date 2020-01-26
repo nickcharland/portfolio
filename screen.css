@@ -142,7 +142,9 @@ nav {font-size: 1.6em;}
 
 div.box {top: 250px;}
 nav {font-size: 1.6em;}
-section.main i.fa-dribbble { size: 100px; }
+img {display: block;
+	 margin-left: auto; margin-right: auto;
+	 width: 50%;}
 }
 
 /* Portrait */
@@ -154,7 +156,9 @@ section.main i.fa-dribbble { size: 100px; }
 
 div.box {top: 250px;}
 nav {font-size: 1.6em;}
-i.fa-dribbble { size: 100px; }
+img {display: block;
+	 margin-left: auto; margin-right: auto;
+	 width: 50%;}
 }
 
 /* Landscape */
